@@ -33,7 +33,7 @@ if (System.getenv('NX_USR') != null) {
 
 // Extensions or Variables to use throughout the build.gradle
 ext {
-	springCloudVersion = 'Hoxton.SR10'
+	springCloudVersion = '2020.0.4'
 }
 
 group = 'com.cognizant'
